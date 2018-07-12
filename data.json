@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0",
+    "product": "bond",
+    "side": "Buy",
+    "client": "CitiBank",
+    "sales": "John",
+    "size": "1",
+    "price": "4200"
+  },
+  {
+    "id": "1",
+    "product": "bond",
+    "side": "Sell",
+    "client": "JP.Morgan",
+    "sales": "Margot",
+    "size": "3",
+    "price": "2900"
+  },
+  {
+    "id": "2",
+    "product": "bond",
+    "side": "Buy",
+    "client": "GS",
+    "sales": "Arnold",
+    "size": "2",
+    "price": "400"
+  }
+]
